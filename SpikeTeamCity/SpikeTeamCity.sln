@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpikeTeamCity", "SpikeTeamCity.csproj", "{B93A9E40-CF2A-489E-B960-9F5F9A0E75A8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SpikeTeamCity.Tests", "..\SpikeTeamCity.Tests\SpikeTeamCity.Tests.csproj", "{F5CABF9B-124F-44E8-8790-987AB8B4EF3A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B93A9E40-CF2A-489E-B960-9F5F9A0E75A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B93A9E40-CF2A-489E-B960-9F5F9A0E75A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B93A9E40-CF2A-489E-B960-9F5F9A0E75A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B93A9E40-CF2A-489E-B960-9F5F9A0E75A8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F5CABF9B-124F-44E8-8790-987AB8B4EF3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5CABF9B-124F-44E8-8790-987AB8B4EF3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5CABF9B-124F-44E8-8790-987AB8B4EF3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5CABF9B-124F-44E8-8790-987AB8B4EF3A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
